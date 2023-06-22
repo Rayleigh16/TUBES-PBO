@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "694318650050",
+    "project_id": "skopisjiwa",
+    "storage_bucket": "skopisjiwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694318650050:android:07057107bd3a6dbefd215b",
+        "android_client_info": {
+          "package_name": "com.skopisjiwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694318650050-61a749v2sqotrk1rijicanhnvtmcact1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skopisjiwa",
+            "certificate_hash": "aea7f12ac97694ea3d452cd1402e3f29ef806f1b"
+          }
+        },
+        {
+          "client_id": "694318650050-itud0f7ddjn8lptbmg4tm05mns76g91m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqhkEulOii-9OAhl-K6cHtHKpoMcoCFFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694318650050-itud0f7ddjn8lptbmg4tm05mns76g91m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
